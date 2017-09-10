@@ -1,7 +1,7 @@
 # Haskell-Learning
 This repo records the process of learning Haskell.
 - [x] Introduction
-- [ ] Starting Out
+- [x] Starting Out
 - [ ] Types and Typeclasses
 - [ ] Syntax in Functions
 - [ ] Recursion

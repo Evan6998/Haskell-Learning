@@ -35,3 +35,8 @@ ghci> take 10 (repeat 5)
 [5,5,5,5,5,5,5,5,5,5] 
 ```
 
+- length函数
+```hs
+length' xs = sum [1 | _ <- xs]  
+```
+
